@@ -60,7 +60,6 @@ The system uses the **Blynk IoT app** for seamless mobile monitoring and managem
 - **Real-Time Monitoring**: View live metrics, including current, voltage, power, and balance, directly from your smartphone.  
 - **Balance Input**: Add balance directly from the mobile app. This balance will be updated in the database and synchronized with the system.  
 - **Alerts**: Receive notifications for low balance, theft detection, and other system events.  
-
 ---
 
 ## Hardware Requirements  
